@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Tue, 20 Dec 2022 04:30:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Dec 2022 07:34:57 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
+		<title>pappara~</title>
+		<link>/index.php/2022/12/20/pappara/</link>
+					<comments>/index.php/2022/12/20/pappara/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 20 Dec 2022 07:34:57 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">/?p=8</guid>
+
+					<description><![CDATA[ぱらぱー]]></description>
+										<content:encoded><![CDATA[
+<p>ぱらぱー</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2022/12/20/pappara/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>test</title>
 		<link>/index.php/2022/12/20/test/</link>
 					<comments>/index.php/2022/12/20/test/#respond</comments>
